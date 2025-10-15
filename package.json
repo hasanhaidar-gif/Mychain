@@ -1,0 +1,19 @@
+{
+  "name": "mychain",
+  "version": "1.0.0",
+  "description": "README.md # MyChain A custom Layer-1 blockchain built with Cosmos SDK and Ignite CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.6.1",
+    "express": "^5.1.0",
+    "uuid": "^13.0.0"
+  }
+}
